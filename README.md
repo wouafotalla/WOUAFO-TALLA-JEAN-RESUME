@@ -1,4 +1,4 @@
-<h1>I'm Wouafo Talla Jean Gael! <br/><a href="https://github.com/joshmadakor1">In love with Tech</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Tech Professional</a>,</h1>
+<h1>I'm Wouafo Talla Jean Gael! <br/></h1> <a href="https://github.com/joshmadakor1">In love with Tech</a>, <a href=" www.linkedin.com/in/wouafo-talla-jean-gael-1a7a33259">linkedin profile Tech Professional</a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
