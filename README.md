@@ -1,8 +1,8 @@
-<h1>I'm Wouafo Talla Jean Gael! <br/></h1> <a href="https://github.com/wouafotalla">In love with Tech</a>, <a href=" www.linkedin.com/in/wouafo-talla-jean-gael-1a7a33259">linkedin profile Tech Professional</a>
+<h1>I'm Wouafo Talla Jean Gael! <br/></h1> <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/">In love with Tech</a>, <a href=" www.linkedin.com/in/wouafo-talla-jean-gael-1a7a33259">linkedin profile Tech Professional</a>
 
-<h2>👨‍💻 Web Development Projects:</h2>
+<h2>👨‍💻 Development Projects:</h2>
 
-- <b>NGO website creation and administration(Production)</b>
+- <b>NGO website created using <a href="https://www.ionos.com/websites/website-builder">IONOS</a>(Production)</b>
   - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -11,7 +11,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Java ()</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
