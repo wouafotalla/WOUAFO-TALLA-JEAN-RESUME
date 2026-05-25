@@ -1,9 +1,9 @@
-<h1>Hi, I'm Wouafo Talla Jean Gael! <br/><a href="https://github.com/joshmadakor1">In love with Tech</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Tech Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>I'm Wouafo Talla Jean Gael! <br/><a href="https://github.com/joshmadakor1">In love with Tech</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Tech Professional</a>,</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>NGO website creation and administration(Production)</b>
+  - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
