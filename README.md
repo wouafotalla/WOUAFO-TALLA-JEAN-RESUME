@@ -1,10 +1,11 @@
 <h1>I'm Wouafo Talla Jean Gael! <br/></h1> <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/">In love with Tech</a>, <a href=" www.linkedin.com/in/wouafo-talla-jean-gael-1a7a33259">linkedin profile Tech Professional</a>
 
-<h2>👨‍💻 SOC(Security Operations Center) & SIEM (Security Information and Event Management):</h2>
+<h4>👨‍💻 SOC(Security Operations Center) & SIEM (Security Information and Event Management)</h4><hr>
 
-- <b>Building a Home SOC Lab: Integrate SIEM with Jira and Elastic for Incident Tracking and Resolution.<a href="https://www.ionos.com/websites/website-builder">IONOS</a>(Production)</b>
-  - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
-- <b>Other</b><h2>👨‍💻 Development Projects:</h2>
+- Building a Home SOC Lab: Integrate SIEM with Jira and Elastic for Incident Tracking and Resolution.<a href="https://github.com/wouafotalla/soc-alert-siem-jira">SOC</a>(Project)
+  
+- Other
+<h4>👨‍💻 Development Projects:</h4><hr>
 
 - <b>NGO website created using <a href="https://www.ionos.com/websites/website-builder">IONOS</a>(Production)</b>
   - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
