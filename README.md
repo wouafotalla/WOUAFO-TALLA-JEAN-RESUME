@@ -15,6 +15,7 @@
   1
 - <b>Java ()</b>
   - [A Java-based interactive billing program for roofing installations, calculating costs, taxes, and generating client invoices with detailed coverage options.](https://github.com/wouafotalla/project-2021)
+  - [A Java-based interactive billing program for Resturant food order, calculating costs, taxes, and generating client invoices with detailedoptions.](https://github.com/wouafotalla/project-2021)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
