@@ -2,7 +2,7 @@
 
 <h4>👨‍💻 SOC(Security Operations Center) & SIEM (Security Information and Event Management)</h4><hr>
 
-- Building a Home SOC Lab: Integrate SIEM with Jira and Elastic for Incident Tracking and Resolution.<a href="https://github.com/wouafotalla/soc-alert-siem-jira">SOC</a>(Project)
+- Developing a Security Operations Center (SOC) Lab with Elastic SIEM and Jira Ticketing Integration.<a href="https://github.com/wouafotalla/soc-alert-siem-jira">Project link here</a>
   
 - Other
 <h4>👨‍💻 Development Projects:</h4><hr>
