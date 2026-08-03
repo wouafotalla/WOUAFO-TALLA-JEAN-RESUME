@@ -12,6 +12,13 @@
   
 - <b>A centralized enterprise IT environment using VMware Workstation, Windows Server 2022, and Active Directory Domain Services (AD DS).<a href="https://github.com/wouafotalla/Installing-VMware-Workstation-and-Windows-Server-2022/blob/main/README">VM Ware, Windows server 2022 and Active directory</a></b>
 - <b>Other</b>
+<h4>👨‍💻 Training done:</h4><hr>
+
+- <b>Sample onboarding <a href="test">link</a>(Production)</b>
+  - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
+  
+- <b> Services (AD DS).<a href="https://github.com/wouafotalla/Installing-VMware-Workstation-and-Windows-Server-2022/blob/main/README">Active directory</a></b>
+- <b>Other</b>
   - [Image Analysis Middleware](https://github.com/text/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   1
