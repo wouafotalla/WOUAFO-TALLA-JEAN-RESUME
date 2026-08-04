@@ -14,7 +14,7 @@
 - <b>Other</b>
 <h4>👨‍💻 Training done:</h4><hr>
 
-- <b>Onboarding</b> IT team and administrators of 5 MFI on Bulk payment<a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1">link</a>
+- <b>Onboarding</b> IT team and administrators of 5 MFI on Bulk payment.Here is a  <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> video </a> onboarding both in english and french
   <p>A bulk payment is a method used to process a large number of payments simultaneously in one batch, rather than processing each one individually</p>
   <ul>
     <li>Platform : Maviance platform(smobilpay)</li>
