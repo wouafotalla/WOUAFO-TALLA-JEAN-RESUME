@@ -15,8 +15,12 @@
 <h4>👨‍💻 Training done:</h4><hr>
 
 - <b>Onboarding</b> IT team and administrators of 5 MFI on Bulk payment<a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1">link</a>
-  
-- <b> Services (AD DS).<a href="https://github.com/wouafotalla/Installing-VMware-Workstation-and-Windows-Server-2022/blob/main/README">Active directory</a></b>
+  <p>A bulk payment is a method used to process a large number of payments simultaneously in one batch, rather than processing each one individually</p>
+  <ul>
+    <li>Platform : Maviance platform(smobilpay)</li>
+    <li>Tool: Excel</li>
+  </ul>
+- <hr>
 - <b>Other</b>
   - [Image Analysis Middleware](https://github.com/text/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
