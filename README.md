@@ -14,8 +14,7 @@
 - <b>Other</b>
 <h4>👨‍💻 Training done:</h4><hr>
 
-- <b>Onboarding IT administrators of 5 MFI on Bulk payment<a href="test">link</a>(Production)</b>
-  - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
+- <b>Onboarding</b> IT team and administrators of 5 MFI on Bulk payment<a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1">link</a>
   
 - <b> Services (AD DS).<a href="https://github.com/wouafotalla/Installing-VMware-Workstation-and-Windows-Server-2022/blob/main/README">Active directory</a></b>
 - <b>Other</b>
