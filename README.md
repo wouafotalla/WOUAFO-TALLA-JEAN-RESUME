@@ -22,6 +22,13 @@
   </ul>
 - <hr>
 - <b>Other</b>
+  - Windows server configuration FAQ
+  - <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> User lockout</a>
+  - <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> Recurring user lockout</a>
+  - <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> Account disabled</a>
+  - <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> Account expired</a>
+  - <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> Folder permissions</a>
+  
   - [Image Analysis Middleware](https://github.com/text/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   1
