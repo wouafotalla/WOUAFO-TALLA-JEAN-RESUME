@@ -167,7 +167,10 @@ Successfully delivered bilingual (English & French) onboarding sessions for **fi
 ### Java Projects
 
 - Roofing Billing & Invoice System
+- [A Java-based interactive billing program for roofing installations, calculating costs, taxes, and generating client invoices with detailed coverage options.](https://github.com/wouafotalla/project-2021)
 - Restaurant Ordering & Billing Application
+- [A Java-based interactive billing program for Resturant food order, calculating costs, taxes, and generating client invoices with detailedoptions.](https://github.com/wouafotalla/project-2021)
+  
 
 **Technologies**
 
@@ -252,10 +255,3 @@ soc
   
   - [Image Analysis Middleware](https://github.com/text/4chan-Image-Analysis-Middleware-C964) <b><i>i</b></i>
 - <b>PowerShell</b>
-  1
-- <b>Java ()</b>
-  - [A Java-based interactive billing program for roofing installations, calculating costs, taxes, and generating client invoices with detailed coverage options.](https://github.com/wouafotalla/project-2021)
-  - [A Java-based interactive billing program for Resturant food order, calculating costs, taxes, and generating client invoices with detailedoptions.](https://github.com/wouafotalla/project-2021)
-  
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
