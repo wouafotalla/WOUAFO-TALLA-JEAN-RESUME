@@ -47,7 +47,7 @@ I'm an **IT Application Support & FinTech Operations professional** with over **
 
 # 🛡️ Featured Cybersecurity Projects
 
-## 1. SOC Lab — Elastic SIEM & Jira Integration
+## 1. SOC Labs
 
 Enterprise Security Operations Center (SOC) laboratory integrating **Elastic SIEM** with **Jira** for automated alert detection, ticket creation, investigation, and incident response workflows.
 
@@ -55,13 +55,13 @@ Enterprise Security Operations Center (SOC) laboratory integrating **Elastic SIE
 
 `Elastic SIEM` `Jira` `Windows` `Incident Response`
 
-🔗 **Repository**
+🔗 **Labs**
 
-https://github.com/wouafotalla/soc-alert-siem-jira
+[https://github.com/wouafotalla/soc-alert-siem-jira](https://github.com/wouafotalla/soc-labs)
 
 ---
 
-## 2. Active Directory Attack & Defence Lab
+## 2. Attacks & Defence Labs
 
 A centralized enterprise IT environment built with **VMware Workstation**, **Windows Server 2022**, and **Active Directory Domain Services (AD DS)** demonstrating identity management, authentication monitoring, DNS, Group Policy, and defensive security analysis.
 
@@ -225,32 +225,7 @@ Successfully delivered bilingual (English & French) onboarding sessions for **fi
 ⭐ *Open to Application Support, Cybersecurity, FinTech and Employer-Sponsored International Opportunities.*
 
 </div>
-<h1>I'm Wouafo Talla Jean Gael! <br/></h1> <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/">In love with Tech</a>, <a href=" www.linkedin.com/in/wouafo-talla-jean-gael-1a7a33259">linkedin profile Tech Professional</a>
 
-<h4>👨‍💻 SOC(Security Operations Center) & SIEM (Security Information and Event Management)</h4><hr>
-soc
-<h4>👨‍💻 Development Projects:</h4><hr>
-
-- <b>NGO website created using <a href="https://www.ionos.com/websites/website-builder">IONOS</a>(Production)</b>
-  - [Ensemble Manchester] (https://ensemblemanchester.org.uk/)
-  
-- <b>A centralized enterprise IT environment using VMware Workstation, Windows Server 2022, and Active Directory Domain Services (AD DS).<a href="https://github.com/wouafotalla/Installing-VMware-Workstation-and-Windows-Server-2022/blob/main/README">VM Ware, Windows server 2022 and Active directory</a></b>
-- <b>Other</b>
-<h4>👨‍💻 Training done:</h4><hr>
-
-- <b>Onboarding</b> IT team and administrators of 5 MFI on Bulk payment.Here is a  <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> video </a> onboarding both in english and french
-  <p>A bulk payment is a method used to process a large number of payments simultaneously in one batch, rather than processing each one individually</p>
-  <ul>
-    <li>Platform : Maviance platform(smobilpay)</li>
-    <li>Tool: Excel</li>
-  </ul>
-- <hr>
-- <b>Other</b>
-  - Windows server 2022 FAQ
-  - <a href="#"> User lockout</a>
-  - <a href="#"> Recurring user lockout</a>
-  - <a href="#"> Account disabled</a>
-  - <a href="#"> Account expired</a>
   - <a href="https://github.com/wouafotalla/WOUAFO-TALLA-JEAN-RESUME/issues/1"> Folder permissions</a>
   
   - [Image Analysis Middleware](https://github.com/text/4chan-Image-Analysis-Middleware-C964) <b><i>i</b></i>
