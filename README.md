@@ -2,10 +2,110 @@
 
 <h4>👨‍💻 SOC(Security Operations Center) & SIEM (Security Information and Event Management)</h4><hr>
 
-- Developing a Security Operations Center (SOC) Lab with Elastic SIEM and Jira Ticketing Integration.<a href="https://github.com/wouafotalla/soc-alert-siem-jira">Project link here</a>
-<br>
--Active Directory attack and defence Lab pass hash 
-- <a href="https://github.com/wouafotalla/Mobile-money/tree/main">Mobile Money Reconciliation</a> Here is a sample Mobile Money Reconciliation Engine in Python that compares transactions from two systems—e.g. a Mobile Money provider and a company’s internal ledger and automatically identifies matches, mismatches transactions, duplicates, missing transactions, and amount differences in transaction if any.
+<section id="projects" class="projects-section">
+  <div class="container">
+
+    <div class="section-title">
+      <h2>🚀 Featured Projects</h2>
+      <p>
+        Enterprise IT, Cybersecurity and FinTech projects showcasing
+        Security Operations, Active Directory, and Payment Reconciliation.
+      </p>
+    </div>
+
+    <div class="projects-grid">
+
+      <!-- Project 1 -->
+      <article class="project-card">
+        <div class="project-icon">🛡️</div>
+
+        <h3>Security Operations Center (SOC) Lab</h3>
+
+        <p class="project-subtitle">
+          Elastic SIEM • Jira Automation • Incident Response
+        </p>
+
+        <p>
+          Designed and deployed an enterprise-style SOC laboratory integrating
+          Elastic SIEM with Jira ticketing automation to simulate real-world
+          alert detection, incident triage, investigation, and resolution.
+        </p>
+
+        <div class="tech-stack">
+          <span>Elastic SIEM</span>
+          <span>Jira</span>
+          <span>Windows</span>
+          <span>Security Monitoring</span>
+        </div>
+
+        <a href="https://github.com/wouafotalla/soc-alert-siem-jira"
+           target="_blank" class="btn-project">
+          🔗 View on GitHub
+        </a>
+      </article>
+
+      <!-- Project 2 -->
+      <article class="project-card">
+        <div class="project-icon">🔐</div>
+
+        <h3>Active Directory Attack & Defence Lab</h3>
+
+        <p class="project-subtitle">
+          Windows Server 2022 • AD DS • Detection Engineering
+        </p>
+
+        <p>
+          Built an isolated Active Directory laboratory demonstrating identity
+          management, privilege separation, Windows event logging, authentication
+          monitoring, and defensive investigation of credential-access scenarios.
+        </p>
+
+        <div class="tech-stack">
+          <span>Active Directory</span>
+          <span>Windows Server</span>
+          <span>DNS</span>
+          <span>Event Viewer</span>
+        </div>
+
+        <a href="#"
+           class="btn-project disabled">
+          📖 Documentation Coming Soon
+        </a>
+      </article>
+
+      <!-- Project 3 -->
+      <article class="project-card">
+        <div class="project-icon">💳</div>
+
+        <h3>Mobile Money Reconciliation Engine</h3>
+
+        <p class="project-subtitle">
+          Python • FinTech • Transaction Matching
+        </p>
+
+        <p>
+          Developed a Python reconciliation engine that compares transactions
+          between a Mobile Money provider and an internal company ledger,
+          automatically identifying matched records, duplicates, missing
+          transactions, mismatches, and amount discrepancies.
+        </p>
+
+        <div class="tech-stack">
+          <span>Python</span>
+          <span>Pandas</span>
+          <span>FinTech</span>
+          <span>Reconciliation</span>
+        </div>
+
+        <a href="https://github.com/wouafotalla/Mobile-money/tree/main"
+           target="_blank" class="btn-project">
+          🔗 View on GitHub
+        </a>
+      </article>
+
+    </div>
+  </div>
+</section>
 <h4>👨‍💻 Development Projects:</h4><hr>
 
 - <b>NGO website created using <a href="https://www.ionos.com/websites/website-builder">IONOS</a>(Production)</b>
